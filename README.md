@@ -5,7 +5,7 @@
 - spawn de projectiles (left click to shoot)
 
 ## Des objets qui se déplacent ou rotate :
-- plateforme (in progress...)
+- plateforme (between the two Nuketown busses to hide)
 
 ## Un système d'interaction entre le joueur et son environnement qui s'affiche sur l'UI des autres joueurs :
 - Augmentation de score qui s'affiche chez tout le monde (you can open the scoreboard with tab)
@@ -14,4 +14,4 @@
 - niveau et expérience (shown in the lobby)
 
 ## Une action de personnage via un input.
-- Saut (in progress...)
+- Saut (press space to jump)
